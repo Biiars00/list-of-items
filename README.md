@@ -16,6 +16,10 @@ List Of Items
 
 <img src="assets/img/lista-de-itens.gif" alt="List Of Items">
 
+## Deploy
+
+[Clique aqui]([https://github.com/Biiars00](https://biiars00.github.io/list-of-items/))
+
 ### Desenvolvido por:
 
 💕 [Beatriz Ribeiro | Biiars00](https://github.com/Biiars00)
