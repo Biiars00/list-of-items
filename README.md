@@ -4,7 +4,7 @@ O **List Of Items** é uma lista de compras, onde é possível inserir, editar e
 
 Os dados ficam armazenados no Local Storage do navegador.
 
-![Imagem](assets\img\img.PNG)
+<img src="assets\img\img.PNG" alt="List Of Items">
 
 ## Linguagem Utilizada
 
@@ -12,7 +12,9 @@ Os dados ficam armazenados no Local Storage do navegador.
 
 ## Demonstração do Projeto
 
-![List Of Items](assets\img\lista-de-itens.gif)
+List Of Items
+
+<img src="assets/img/lista-de-itens.gif" alt="List Of Items">
 
 ### Desenvolvido por:
 
